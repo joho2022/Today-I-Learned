@@ -1,2 +1,3 @@
-# Today_I_Learned
-기억보다 기록
+# Today-I-Learned
+조급해하지말고 꾸준히하자.
+
